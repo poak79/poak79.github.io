@@ -1,9 +1,9 @@
 ---
 title: Writing a New Post
 author: cotes
-date: 2019-08-08 14:10:00 +0800
-categories: [Blogging, Tutorial]
-tags: [writing]
+date: 2026-02-16 14:10:00 +0800
+categories: [Tutorial]
+tags: [demol]
 render_with_liquid: false
 ---
 

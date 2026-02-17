@@ -2,9 +2,9 @@
 title: Text and Typography
 description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
 author: cotes
-date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
+date: 2026-02-16 11:33:00 +0800
+categories: [Tutorial]
+tags: [demo]
 pin: true
 math: true
 mermaid: true
