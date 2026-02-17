@@ -3,7 +3,7 @@ title: Writing a New Post
 author: cotes
 date: 2026-02-16 14:10:00 +0800
 categories: [Tutorial]
-tags: [demol]
+tags: [demo]
 render_with_liquid: false
 ---
 

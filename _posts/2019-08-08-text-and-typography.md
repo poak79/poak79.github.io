@@ -5,7 +5,6 @@ author: cotes
 date: 2026-02-16 11:33:00 +0800
 categories: [Tutorial]
 tags: [demo]
-pin: true
 math: true
 mermaid: true
 image:
