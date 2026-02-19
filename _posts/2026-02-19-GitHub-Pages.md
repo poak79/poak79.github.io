@@ -1,6 +1,5 @@
 ---
 title: "GitHub Pages 블로그 동작 원리: Jekyll과 YAML Front Matter 정리"
-description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
 author: poak79
 date: 2026-02-16 11:33:00 +0800
 categories: [Dev, Git]
