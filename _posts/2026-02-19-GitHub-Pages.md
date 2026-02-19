@@ -1,7 +1,7 @@
 ---
 title: "GitHub Pages 블로그 동작 원리: Jekyll과 YAML Front Matter 정리"
 author: poak79
-date: 2026-02-16 11:33:00 +0800
+date: 2026-02-19 11:45:00 +0900
 categories: [Dev, Git]
 tags: [github-pages, jekyll, yaml, front-matter, static-site, github-actions]
 pin: true
