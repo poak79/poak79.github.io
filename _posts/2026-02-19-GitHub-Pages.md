@@ -35,16 +35,18 @@ Jekyll은 정적 사이트 생성기이다.
 
 ### GitHub Pages 동작 원리
 
-1. **로컬에서 하는 일**
+- **로컬에서 하는 일**
 
 `_posts/` 에 게시물로 올릴 마크다운 파일을 추가한다. 
 
 원한다면 `bundle exec jekyll serve` 로 로컬에서 미리보기가 가능하다. 
 
-2. **git push 후 GitHub에서 일어나는 일**
+
+- **git push 후 GitHub에서 일어나는 일**
 
 Pages가 Jekyll을 직접 빌드하거나, GitHub Actions가 빌드한 정적 파일 결과물을 Pages에 업로드한다.
 
-3. **결과**
+
+- **결과**
 
 빌드 산출물(HTML/CSS/JS)이 Pages에 올라가고, 브라우저는 그 정적 파일을 그대로 내려받아 렌더링한다.
